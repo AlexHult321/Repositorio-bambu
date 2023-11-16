@@ -216,6 +216,10 @@ td, th{
 
 }
 
+.texto-empresa {
+  widht: 35%;
+}
+
 .conteudo-beneficios {
   width: 640px;
   margin: 0 auto;
